@@ -10,7 +10,7 @@ In response to these recent clusters, the CECC introduced four strengthened meas
 
 ## Taoyuan Quarantine Hotel Cluster
 
-| Case Number | Floor in Hotel | Country of Origin | Date of Entry | Date of Onset | Date of Inspection | Date of Diagnosis | Gender | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
+| Case Number | Floor in Hotel | Country of Origin | Date of Entry | Date of Symptom Onset | Date of Inspection | Date of Diagnosis | Gender | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 16768 | 6 | Vietnam | 2021-12-03 | 2021-12-03 | 2021-12-03 | 2021-12-06 | M | 40+ | 25.4 | Y | 2 AZ | Runny nose | Delta | 2021-12-03 | 2021-12-17 |
 | 16821 | 6 | China | 2021-12-01 | 2021-12-06 | 2021-12-08 | 2021-12-10 | M | 30+ | 14.0 | N | 1 AZ | Runny nose, sore throat, cough, body aches | Delta | 2021-12-01 | 2021-12-15 |
@@ -25,7 +25,7 @@ In response to these recent clusters, the CECC introduced four strengthened meas
 ## Taipei Quarantine Hotel Cluster
 
 
-| Case Number | Country of Origin | Date of Entry | Date of Onset | Date of Inspection | Date of Diagnosis | Gender  | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
+| Case Number | Country of Origin | Date of Entry | Date of Symptom Onset | Date of Inspection | Date of Diagnosis | Gender  | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 16859 | Cambodia | 2021-11-26 | 2021-12-13 | 2021-12-13 | 2021-12-04 | F | 30+ | 12 | Y | 2 AZ | Sore throat | Delta | 2021-11-26 | 2021-12-10 |
 | 16870 | United States | 2021-12-05 | 2021-12-06 | 2021-12-14 | 2021-12-15 | M | 30+ | 31 | Y | 2 AZ | Sore throat, swelling and tenderness in tonsil | Delta | 2021-12-05 | 2021-12-19 |
