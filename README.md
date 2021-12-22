@@ -8,7 +8,7 @@ An unrelated cluster of infections was identified shortly after in a quarantine 
 
 In response to these recent clusters, the CECC introduced four strengthened measures for quarantine hotels to prevent further quarantine hotel cluster infections. These measures include: (1) enhancing monitoring efforts and increasing the number of tests required, the number of inspections, and penalties for violations during the Lunar New Year Quarantine Programs, (2) Conducting inspections of epidemic prevention and control measures in quarantine hotels, (3) conducting inspections of ventilation and air conditioning systems in quarantine hotels, and (4) enhancing reporting of symptomatic individuals. 
 
-## Taoyuan quarantine hotel
+## Taoyuan Quarantine Hotel Cluster
 
 | Case Number | Floor in Hotel | Country of Origin | Date of Entry | Date of Onset | Date of Inspection | Date of Diagnosis | Gender | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -20,10 +20,12 @@ In response to these recent clusters, the CECC introduced four strengthened meas
 | 16865 | 6 | Australia | 2021-12-03 | 2021-12-03 | 2021-12-13 | 2021-12-15 | M | 20+ | 27.1 | Y | 2 BNT | Asymptomatic | Delta | 2021-12-03 | 2021-12-17 |
 | 16862 | 8 | Indonesia | 2021-12-01 | 2021-12-03 | 2021-12-13 | 2021-12-14 | M | 50+ | 20.2 | Y | 1 SINOVAC, 1 SINOPHARM | Asymptomatic | Delta | 2021-12-01 | 2021-12-15 |
 
-## Taipei quarantine hotel 
+## Taipei Quarantine Hotel Cluster
 
-| Case Number | Country of Origin | Date of Entry | Date of Onset | Date of Inspection | Date of Diagnosis | Gender | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 16859 | Cambodia | 2021-11-26 | 2021-12-13 | 2021-12-13 | 2021-12-14 | F | 30+ | 12 | Y | 2 AZ | Sore throat | Delta | 2021-11-26 | 2021-12-10 |
-| 16870 | United States | 2021-12-05 | 2021-12-06 | 2021-12-14 | 2021-12-15 | M | 30+ | 31 | Y | 2 AZ | Sore throat, swelling  and tenderness in tonsil | Delta | 2021-12-05 | 2021-12-19 |
+
+| Case Number | Country of Origin | Date of Entry | Date of Onset | Date of Inspection | Date of Diagnosis | Gender  | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 16859 | Cambodia | 2021-11-26 | 2021-12-13 | 2021-12-13 | 2021-12-04 | F | 30+ | 12 | Y | 2 AZ | Sore throat | Delta | 2021-11-26 | 2021-12-10 |
+| 16870 | United States | 2021-12-05 | 2021-12-06 | 2021-12-14 | 2021-12-15 | M | 30+ | 31 | Y | 2 AZ | Sore throat, swelling and tenderness in tonsil | Delta | 2021-12-05 | 2021-12-19 |
+
 
