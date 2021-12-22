@@ -22,4 +22,7 @@ In response to these recent clusters, the CECC introduced four strengthened meas
 
 ## Taipei quarantine hotel 
 
-<table with data>
+| Case Number | Country of Origin | Date of Entry | Date of Onset | Date of Inspection | Date of Diagnosis | Gender | Age | Ct Value | Breakthrough Infection? | Vaccination Status | Symptoms | Variant | Quarantine Start Date | Quarantine End Date |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 16859 | Cambodia | 2021-11-26 | 2021-12-13 | 2021-12-13 | 2021-12-14 | F | 30+ | 12 | Y | 2 AZ | Sore throat | Delta | 2021-11-26 | 2021-12-10 |
+| 16870 | United States | 2021-12-05 | 2021-12-06 | 2021-12-14 | 2021-12-15 | M | 30+ | 31 | Y | 2 AZ | Sore throat, swelling  and tenderness in tonsil | Delta | 2021-12-05 | 2021-12-19 |
