@@ -14,11 +14,13 @@ In response to these recent clusters, the CECC introduced four strengthened meas
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 16768 | 6 | Vietnam | 2021-12-03 | 2021-12-03 | 2021-12-03 | 2021-12-06 | M | 40+ | 25.4 | Y | 2 AZ | Runny nose | Delta | 2021-12-03 | 2021-12-17 |
 | 16821 | 6 | China | 2021-12-01 | 2021-12-06 | 2021-12-08 | 2021-12-10 | M | 30+ | 14.0 | N | 1 AZ | Runny nose, sore throat, cough, body aches | Delta | 2021-12-01 | 2021-12-15 |
-| 16851 | 6 | China | 2021-11-20 | 2021-12-03 | 2021-12-11 | 2021-12-13 | M | 40+ | 19.2 | Y | 2 SINOVAC | Asymptomatic | Delta | 2021-11-20 | 2021-12-04 |
+| 16851 | 6 | China | 2021-11-20 | NA | 2021-12-11 | 2021-12-13 | M | 40+ | 19.2 | Y | 2 SINOVAC | Asymptomatic | Delta | 2021-11-20 | 2021-12-04 |
 | 16856 | 6 | Hong Kong | 2021-12-02 | 2021-12-12 | 2021-12-12 | 2021-12-14 | F | 50+ | 18.9 | N | 2 BNT (only 3 weeks between doses) | Eye redness and pain, allergies, runny nose | Delta | 2021-12-02 | 2021-12-16 |
 | 16841 | 6 | China | 2021-11-28 | 2021-12-10 | 2021-12-10 | 2021-12-11 | M | 40+ | 14.7 | Y | 2 SINOVAC | Runny nose, numbness in tongue | Delta | 2021-11-28 | 2021-12-12 |
-| 16865 | 6 | Australia | 2021-12-03 | 2021-12-03 | 2021-12-13 | 2021-12-15 | M | 20+ | 27.1 | Y | 2 BNT | Asymptomatic | Delta | 2021-12-03 | 2021-12-17 |
-| 16862 | 8 | Indonesia | 2021-12-01 | 2021-12-03 | 2021-12-13 | 2021-12-14 | M | 50+ | 20.2 | Y | 1 SINOVAC, 1 SINOPHARM | Asymptomatic | Delta | 2021-12-01 | 2021-12-15 |
+| 16865 | 6 | Australia | 2021-12-03 | NA | 2021-12-13 | 2021-12-15 | M | 20+ | 27.1 | Y | 2 BNT | Asymptomatic | Delta | 2021-12-03 | 2021-12-17 |
+| 16862 | 8 | Indonesia | 2021-12-01 | NA | 2021-12-13 | 2021-12-14 | M | 50+ | 20.2 | Y | 1 SINOVAC, 1 SINOPHARM | Asymptomatic | Delta | 2021-12-01 | 2021-12-15 |
+
+* NA = no symptom onset has been observed
 
 ## Taipei Quarantine Hotel Cluster
 
